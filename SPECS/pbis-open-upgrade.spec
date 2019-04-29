@@ -1,7 +1,7 @@
 Name: 		pbis-open-upgrade
 Summary: 	Upgrade helper package for PowerBroker Identity Services Open
 Version: 	8.2.2
-Release:	3
+Release:	3%{?dist}
 License: 	GPLv2
 URL: 		http://www.beyondtrust.com/Products/PowerBroker-Identity-Services-Open-Edition/
 Obsoletes: likewise-open-upgrade, likewise-open, likewise-srvsvc, likewise-base, likewise-base-32bit, likewise-domainjoin, likewise-domainjoin-gui, likewise-eventfwd, likewise-eventlog, likewise-grouppolicy, likewise-grouppolicy-32bit, likewise-krb5, likewise-libxml2, likewise-lsass, likewise-lsass-32bit, likewise-lsass-enterprise, likewise-lwadtool, likewise-lwadutil, likewise-lwconfig, likewise-lwio, likewise-lwnetapi, likewise-lwreskit, likewise-lwtools, likewise-lwreg, likewise-lwupgrade, likewise-mod-auth-kerb, likewise-netlogon, likewise-openldap, likewise-passwd, likewise-pstore, likewise-reapsysl, likewise-reskit, likewise-rpc, likewise-samba-interop, likewise-smartcard, likewise-smartcard-32bit, likewise-sqlite, likewise-lwreg-32bit
